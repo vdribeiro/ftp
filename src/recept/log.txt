@@ -1,0 +1,10 @@
+Settings usados:
+Filename: pinguim.gif
+BAUDRATE: B9600
+Numero de tramas de informacao recebidas: 55
+Tamanho total de dados recebidos: 0
+
+Numero de tramas duplicadas: 0
+Numero de tramas REJ enviadas: 0
+: 0
+
